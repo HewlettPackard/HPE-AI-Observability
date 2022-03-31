@@ -1,0 +1,5 @@
+The CIFAR-10 were collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton. The tech report entitled Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009, describes the datasets and the methodology followed when collecting them in greater detail.  These datasets and the tech report are available at <https://www.cs.toronto.edu/~kriz/cifar.html>
+
+NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community. Reference:
+* https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community
+* Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM. ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases. IEEE CVPR 2017, http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf. Images are available via Box: https://nihcc.app.box.com/v/ChestXray-NIHCC
